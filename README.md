@@ -32,7 +32,7 @@ Uygulama içindeki temel işlemleri ve iş mantığını yönetir. Fiyatlandırm
 
 Kullanıcı arayüzünü (UI) yönetir ve kullanıcıyla etkileşimi sağlar. Araç listesi, kiralama ekranı gibi kullanıcı bilgilerini gösterir ve kullanıcının girdiği bilgileri iş katmanına ileterek işlemleri başlatır.
 
-
+## Kullanım 
 Projenin çalıştırılması için App.java sınıfını kullanabilirsiniz. Bu sınıf, projenin başlangıç noktasını temsil eder ve uygulamayı hayata geçirir.
 
 username : admin
