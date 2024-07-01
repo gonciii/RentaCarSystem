@@ -1,9 +1,9 @@
-#Araç Kiralama Uygulaması
+# Araç Kiralama Uygulaması
 
 
 Bu proje, Java ve Swing teknolojileri kullanılarak geliştirilecek olan bir araç kiralama uygulamasını içermektedir.Aracın tüm yaşam döngüsünü takip eden ve rezervasyon işlemlerini yöneten bir uygulamadır.
 
------> Teknolojiler
+## Teknolojiler
 
 Java: Nesne yönelimli programlama prensiplerini temel alan, geniş bir kullanıcı tabanına sahip bir programlama dilidir.
 
@@ -12,23 +12,23 @@ Swing: Java programlama dilinde GUI bileşenleri oluşturmak ve yönetmek için 
 PostgreSQL: İlişkisel veritabanı yönetim sistemi (RDBMS) olarak kullanılacaktır. PostgreSQL, güçlü SQL sorgu desteği ve geniş özellik setiyle bilinir.
 
 
------> Proje Yapısı
+## Proje Yapısı
 
 Proje katmanlı mimari ile oluşturulmuştur.Kullanılan modüller :
 
-Entity Modülü
+### Entity Modülü
 
 Veritabanı tablolarını ve bu tablolara ait varlık nesnelerini tanımlar. Kullanıcı, araç, rezervasyon gibi temel entity nesnelerini içerir ve bu nesneler arasındaki ilişkileri belirler.
 
-DAO Modülü (Veri Erişim Nesnesi)
+### DAO Modülü (Veri Erişim Nesnesi)
 
 Veritabanı erişimi ve işlemleri için arayüz sağlar. Entity modülündeki nesnelerin PostgreSQL veritabanına kaydedilmesi, güncellenmesi, silinmesi işlemlerini yönetir ve veritabanından veri alma işlemlerini gerçekleştirir.
 
-Business Modülü
+### Business Modülü
 
 Uygulama içindeki temel işlemleri ve iş mantığını yönetir. Fiyatlandırma, araç kiralama hesaplamaları gibi iş mantığı operasyonlarını dao modülü ile etkileşim içinde gerçekleştirir.
 
-View Modülü
+### View Modülü
 
 Kullanıcı arayüzünü (UI) yönetir ve kullanıcıyla etkileşimi sağlar. Araç listesi, kiralama ekranı gibi kullanıcı bilgilerini gösterir ve kullanıcının girdiği bilgileri iş katmanına ileterek işlemleri başlatır.
 
