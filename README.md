@@ -5,11 +5,11 @@ Bu proje, Java ve Swing teknolojileri kullanılarak geliştirilecek olan bir ara
 
 ## Teknolojiler
 
-Java: Nesne yönelimli programlama prensiplerini temel alan, geniş bir kullanıcı tabanına sahip bir programlama dilidir.
+#### Java: Nesne yönelimli programlama prensiplerini temel alan, geniş bir kullanıcı tabanına sahip bir programlama dilidir.
 
-Swing: Java programlama dilinde GUI bileşenleri oluşturmak ve yönetmek için kullanılan bir kütüphanedir. Geniş bir bileşen seti sunar ve masaüstü uygulamaları için idealdir.
+#### Swing: Java programlama dilinde GUI bileşenleri oluşturmak ve yönetmek için kullanılan bir kütüphanedir. Geniş bir bileşen seti sunar ve masaüstü uygulamaları için idealdir.
 
-PostgreSQL: İlişkisel veritabanı yönetim sistemi (RDBMS) olarak kullanılacaktır. PostgreSQL, güçlü SQL sorgu desteği ve geniş özellik setiyle bilinir.
+#### PostgreSQL: İlişkisel veritabanı yönetim sistemi (RDBMS) olarak kullanılacaktır. PostgreSQL, güçlü SQL sorgu desteği ve geniş özellik setiyle bilinir.
 
 
 ## Proje Yapısı
