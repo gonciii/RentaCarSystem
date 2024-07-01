@@ -12,7 +12,7 @@ Swing: Java programlama dilinde GUI bileşenleri oluşturmak ve yönetmek için 
 PostgreSQL: İlişkisel veritabanı yönetim sistemi (RDBMS) olarak kullanılacaktır. PostgreSQL, güçlü SQL sorgu desteği ve geniş özellik setiyle bilinir.
 
 
----- > Proje Yapısı
+-----> Proje Yapısı
 
 Proje katmanlı mimari ile oluşturulmuştur.Kullanılan modüller :
 
@@ -31,6 +31,9 @@ Uygulama içindeki temel işlemleri ve iş mantığını yönetir. Fiyatlandırm
 View Modülü
 
 Kullanıcı arayüzünü (UI) yönetir ve kullanıcıyla etkileşimi sağlar. Araç listesi, kiralama ekranı gibi kullanıcı bilgilerini gösterir ve kullanıcının girdiği bilgileri iş katmanına ileterek işlemleri başlatır.
+
+
+Projenin çalıştırılması için App.java sınıfını kullanabilirsiniz. Bu sınıf, projenin başlangıç noktasını temsil eder ve uygulamayı hayata geçirir.
 
 ![Ekran Görüntüsü (47)](https://github.com/gonciii/RentaCarSystem/assets/114026990/96bece7a-ffa3-42e9-ae63-e7049e03564c)
 
