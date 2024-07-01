@@ -36,6 +36,7 @@ Kullanıcı arayüzünü (UI) yönetir ve kullanıcıyla etkileşimi sağlar. Ar
 Projenin çalıştırılması için App.java sınıfını kullanabilirsiniz. Bu sınıf, projenin başlangıç noktasını temsil eder ve uygulamayı hayata geçirir.
 
 username : admin
+
 password : 0000
 
 ![Ekran Görüntüsü (47)](https://github.com/gonciii/RentaCarSystem/assets/114026990/96bece7a-ffa3-42e9-ae63-e7049e03564c)
